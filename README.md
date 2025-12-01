@@ -32,3 +32,4 @@ Jupyter Notebook
 
 💡 Note
 This project is built for educational and practical purposes only, not for commercial use. Always respect a website’s terms of service when scraping.
+Author -Ganesh Bahadur Basnet
